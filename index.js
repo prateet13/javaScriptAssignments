@@ -15,5 +15,5 @@ function findMax(arr) {
     return max;
 }
 
-arr=[1,21,3,91,16]
+arr=[1,21,3,91,16]; // example
 console.log(findMax(arr)) // 91
